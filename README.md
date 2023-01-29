@@ -1,7 +1,7 @@
 # Attribute-Alignment-Code
 This repository holds code which can be used to calculate attribute alignment, which models the coexistence of attributes within lower-level components of a complex multilevel system.
 
-To use this code, first download Anaconda Navigator, which is free (https://www.anaconda.com/products/distribution)
+To use the Python code, which calculates all 3+ alignment types at once, first download Anaconda Navigator, which is free (https://www.anaconda.com/products/distribution)
 Then, open Jupyter Notebook
 Upload your data in .csv form and the "Python Attribute Alignment Code - Github - 1-23-23.asciidoc" file from this repository. 
 Fill in the variable names of interest from your file where indicated, specifically
@@ -13,6 +13,8 @@ Fill in the variable names of interest from your file where indicated, specifica
  return(sqrt(rowSums((attribute_1_matrix - attribute_2_matrix) ** 2,na.rm=TRUE)))
 
 Also, in newer versions of Python, you may have to change "data_matrix = all_data.as_matrix()" to "data_matrix = all_data.values"
+
+The R-code is presented in the "R-code-potentialenergy.ipynb", " ", and " " files, along with several brief examples. 
 
 Finally, note that this code is subject to an MIT Open Source License (see Legal.txt)
 
