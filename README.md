@@ -9,7 +9,7 @@ Then, fill in your variable names where indicated, specifically
   2. Fill in "base_column" and "comparison_columns" with you attributes of interest. 
   3. Set distance_type = 2 to calculate the Euclidean distance between attribute vectors. Set distance_type = 'cosine' to calculate the cosine of the angle between vectors. These methods are described in detail in Emich et al., 2022, ORM. 
 
-To use the Python code, which calculates all 3+ alignment types at once, follow the previous steps, but instead download the "Python Attribute Alignment Code - Github - 1-23-23.ipynb" file from this repository and upload it to Jupyter Notebook. 
+To use the Python code, which calculates all 3+ alignment types at once, follow the previous steps, but instead download the "Python Attribute Alignment Code - Github - 3-6-23.ipynb" file from this repository and upload it to Jupyter Notebook. 
 Then, fill in the variable names of interest from your file where indicated, specifically
   1. Add the name you use to separate your teams where "Overall GroupID" appears. This is the variable that will divide members into team 1, team 2, etc. 
   2. Add a dependent variable where "DV" appears
