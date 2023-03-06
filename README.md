@@ -4,6 +4,9 @@ This repository holds code which can be used to calculate attribute alignment, w
 To use Python code calculating 2-attribute alignment, first download Anaconda Navigator, which is free (https://www.anaconda.com/products/distribution)
 Then, open Jupyter Notebook
 Upload your data in .csv form and the "2 Attribute Alignment Code 3-6-23.ipynb" file from this repository. 
+
+**To download a file from Github: Click on the file you wish to download from GitHub to open the individual file. From there, right click the Raw button at the top of the file, select Save Link As… , choose the location on your computer where you want to save the file, and select Save.**
+
 Then, fill in your variable names where indicated, specifically
   1. Fill in the name of your data set, including ".csv" after "DATA_FILE =" 
   2. Fill in "base_column" and "comparison_columns" with you attributes of interest. 
