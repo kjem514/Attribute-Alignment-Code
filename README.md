@@ -28,16 +28,13 @@ Finally, note that this code is subject to an MIT Open Source License (see Legal
 
 Good luck with your research!
 
-References (In Alignment Articles Folder): 
+**References (In Alignment Articles Folder): 
 
-For a description of 2-attribute alignment:
-
+**For a description of 2-attribute alignment:**
 Emich, K.J., Lu, L., Ferguson, A.J., Peterson, R.S., & McCourt, M. (2022). Team Composition Revisited: A Team Member Attribute Alignment Approach. Organizational Research Methods, 25, 642-672. 
 
-For an example of 2-attribute alignment:
-
+**For an example of 2-attribute alignment:**
 Emich, K.J., Lu, L., Ferguson, A.J., Peterson. R.S., Martin, S.R., McClean, E., Woodruff, T., & McCourt, M. Control and Change Together: Conscientiousness and Proactivity Alignment Improve Team Performance. Accepted at Academy of Management Discoveries.
 
-For a description of 3+ attribute alignment: 
-
+**For a description of 3+ attribute alignment:**
 Emich, K.J., McCourt, M., Lu, L., Ferguson, A.J., & Peterson, R.S. (Accepted). Team Composition Revisited: Expanding the Team Member Attribute Alignment Approach to Consider Patterns of More than Two Attributes. Organizational Research Methods.
